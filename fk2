@@ -1,1 +1,1 @@
-	local CHAT_SERVER_URL = "https://hamburg-baths-lambda-entrance.trycloudflare.com",
+	local CHAT_SERVER_URL = "https://hamburg-baths-lambda-entrance.trycloudflare.com"
